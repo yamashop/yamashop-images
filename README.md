@@ -1,0 +1,1 @@
+# yamashop-images
